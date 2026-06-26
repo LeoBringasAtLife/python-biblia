@@ -1,5 +1,3 @@
-# Mensaje personalizado
-
 Este es un pequeño script en Python que pide dos datos por consola:
 - **Nombre**
 - **Género** (h/m)
